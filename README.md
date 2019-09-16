@@ -1,6 +1,6 @@
 ### TS-Node-Project
 
-A simple project that I create for improve knowledge with js/ts and some features.
+A simple project that I create for improve knowledge with js/ts and some features for my daily scripts.
 
 ---
 
